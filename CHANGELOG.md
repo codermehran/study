@@ -1,3 +1,6 @@
+## v1.0.4
+* Merge pull request #9 from codermehran/main
+
 ## v1.0.3
 * Merge pull request #7 from codermehran/main
 * feat: add full-screen study stopwatch with pause and discard
